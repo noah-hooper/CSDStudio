@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  Graphical user interface (GUI) for modeling crystal size distributions. 
+  CSDStudio: A MATLAB app for modeling curved CSDs produced by magma mixing
 </p>
