@@ -1,4 +1,4 @@
-<h1 align="center">Repository Name</h1>
+<h1 align="center">CSDStudio</h1>
 
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.20513437">
@@ -7,9 +7,9 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-Non--Commercial-lightgrey?style=for-the-badge" alt="License">
   </a>
-  <img src="https://img.shields.io/badge/MATLAB-R2024b-orange?style=for-the-badge" alt="MATLAB">
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge" alt="MATLAB">
 </p>
 
 <p align="center">
-  Brief one-sentence description of the repository.
+  Graphical user interface (GUI) for modeling crystal size distributions. 
 </p>
