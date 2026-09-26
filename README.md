@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  CSDStudio: A MATLAB app for modeling curved CSDs produced by magma mixing
+  CSDStudio: A MATLAB app for modeling curved CSDs produced by magma mixing. 
   NOTE: Software still in development. Expected final release for macOS and windows ~Sept. 2026. Additionally, the user manual for CSDStudio is in process of being updated for CSDStudio 2026b. Final documents will be uploaded after Journal review timeline. 
 </p>
 
