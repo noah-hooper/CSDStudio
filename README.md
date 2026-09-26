@@ -17,7 +17,8 @@
 
 ### CSDStudio 2026b
 
-CSDStudio 2026b introduces substantial updates to model initialization, nonlinear inversion, MCMC sampling, uncertainty visualization, and data export. The Linear, Growth-Law, two-component, and three-component CSD models remain available.
+CSDStudio 2026b introduces substantial updates to model initialization, nonlinear inversion, MCMC sampling, uncertainty visualization, and data export. The Linear, Growth-Law, two-magma reservoir, and three-magma reservoir CSD models remain available.
+Minor bugs fixes present in CSDStudio 2026a. 
 
 **Model and parameter updates**
 - Renamed 2-Chamber and 3-Chamber models to 2-Reservoir and 3-Reservoir, respectively.
@@ -26,7 +27,7 @@ CSDStudio 2026b introduces substantial updates to model initialization, nonlinea
 
 **Initialization and inversion**
 - Revised automatic piecewise initialization and breakpoint selection.
-- Made automatic initialization the default. Manual piecewise initialization now requests fresh selections for each run.
+- Made automatic initialization the default. Fixed minor bugs for manual piecewise initialization
 
 **MCMC**
 - Introduced adaptive, covariance-informed proposals during burn-in.
